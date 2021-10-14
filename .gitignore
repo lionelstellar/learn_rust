@@ -12,3 +12,5 @@ Cargo.lock
 game/target/
 .vscode/launch.json
 hello/hello
+
+main
