@@ -34,3 +34,7 @@ $ cd $(project_name)
 $ cargo build   //构建
 $ cargo run     //构建并运行
 ```
+
+### 4.笔记
+
+[笔记](Notes.md ':include :type=code')
